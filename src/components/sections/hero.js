@@ -80,7 +80,7 @@ const Hero = () => {
       href="#"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my blog!
     </a>
   );
 
