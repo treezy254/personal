@@ -1,14 +1,14 @@
 ---
-date: '2020-03-27'
-title: 'Visualizing Mandelbrotset with Python'
-github: 'https://github.com/painkiller254/mandelbrotset.git'
+date: '2017-12-01'
+title: 'Data Analysis'
+github: 'https://github.com/painkiller254/Data-analysis.git'
 external: ''
 tech:
   - Python
+  - Pandas
   - Matplotlib
-  - Jupyter 
-company: 'Upstatement'
+company: 'Savana'
 showInProjects: true
 ---
 
-A quick and dirty way to visualize the Mandelbrot set is through a scatter plot, which illustrates the relationships between paired variables.
+A Thorough exploration through data analysis and statistics using numpy, pandas and matplotlib.
