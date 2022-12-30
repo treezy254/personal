@@ -11,3 +11,5 @@ tech:
 company: 'Savana'
 showInProjects: true
 ---
+
+A product recommender system using python and data analysis tools.
