@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2022-06-29'
 title: 'Stock-Market Prediction'
 github: 'https://github.com/painkiller254/Stocks-Market-prediction.git'
 external: ''

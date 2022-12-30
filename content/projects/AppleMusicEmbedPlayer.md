@@ -1,5 +1,5 @@
 ---
-date: '2017-12-01'
+date: '2021-12-01'
 title: 'Data Analysis'
 github: 'https://github.com/painkiller254/Data-analysis.git'
 external: ''

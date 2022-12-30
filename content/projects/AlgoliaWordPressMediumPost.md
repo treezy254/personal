@@ -7,7 +7,7 @@ tech:
   - Python
   - Matplotlib
   - Jupyter 
-company: 'Upstatement'
+company: 'Savana'
 showInProjects: true
 ---
 

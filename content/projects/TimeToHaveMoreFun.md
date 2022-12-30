@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2022-10-10'
 title: 'House Pricing Prediction'
 github: 'https://github.com/painkiller254/Carlifornia_House_pricing_prediction.git'
 external: ''
@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS
+A machine learning project that explored california housing dataset for the year 1998 and predicts the house pricing according to certain features.

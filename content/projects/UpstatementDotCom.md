@@ -1,5 +1,5 @@
 ---
-date: '2019-11-25'
+date: '2021-11-25'
 title: 'Graph Theory'
 github: 'https://github.com/painkiller254/Problem-solving-Graph-Theory.git'
 external: ''
