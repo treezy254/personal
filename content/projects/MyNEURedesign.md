@@ -1,6 +1,6 @@
 ---
 date: '2022-04-03'
-title: 'Smart contracts'
+title: 'Blockchain'
 github: 'https://github.com/painkiller254/Solidity.git'
 external: ''
 tech:
