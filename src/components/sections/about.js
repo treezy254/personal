@@ -135,18 +135,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Samuel and I enjoy creating things that live on the internet. My
-              interest in programming started back in 2017 when I decided to try creating a journal
-              for my highschool tours — turns out hacking together a custom navbar taught me a lot
-              about HTML &amp; CSS!
+              Hi, my name is Samuel and I work remotely as a freelance data scientist. I hold a Bachelor’s in science (Software Development, KCA University Nairobi).
             </p>
 
             <p>
-              I've had the previlege of building a couple front-end web projects as well as fullstack web projects. I utilize smart contracts and blockchain technologies into my websites to provide web3 services.
+              Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me.
             </p>
 
             <p>
-              I recently opened an online school where I try to teach web technologies using an innovative learning interface which assists students to learn more quickly and effectively.
+              I have been working as a data scientist for more than t years with experience in transport, logistics and retail. I have worked for more than 2 companies which gives me the ability to translate complex questions into understandable insights.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
