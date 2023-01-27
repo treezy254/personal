@@ -1,6 +1,6 @@
 ---
 date: '2022-10-10'
-title: 'House Pricing Prediction'
+title: 'Artificial Intelligence'
 github: 'https://github.com/painkiller254/Carlifornia_House_pricing_prediction.git'
 external: ''
 tech:
