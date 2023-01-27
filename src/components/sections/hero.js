@@ -65,10 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        software technologies. Currently, I’m focused on building backend applications at {' '}
-        <a href="https://turing.com/" target="_blank" rel="noreferrer">
-          Turing
+        I want to help others to make the right decisions, data-driven decisions.
         </a>
         .
       </p>
