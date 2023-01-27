@@ -1,6 +1,6 @@
 ---
 date: '2021-12-01'
-title: 'Data Analysis'
+title: 'Data Science'
 github: 'https://github.com/painkiller254/Data-analysis.git'
 external: ''
 tech:
