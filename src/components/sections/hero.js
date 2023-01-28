@@ -66,8 +66,6 @@ const Hero = () => {
     <>
       <p>
         I want to help others to make the right decisions, data-driven decisions.
-        </a>
-        .
       </p>
     </>
   );
