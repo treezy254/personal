@@ -1,6 +1,6 @@
 ---
 date: '2022-06-29'
-title: 'Stock-Market Prediction'
+title: 'Statistics'
 github: 'https://github.com/painkiller254/Stocks-Market-prediction.git'
 external: ''
 tech:
