@@ -1,6 +1,6 @@
 ---
 date: '2022-07-16'
-title: 'Machine Learning'
+title: 'Data Science'
 github: 'https://github.com/painkiller254/recommender_system.git'
 external: ''
 tech:
