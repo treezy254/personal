@@ -1,10 +1,10 @@
 ---
 date: '2021-11-30'
 title: 'Software Engineer'
-company: 'Turing'
+company: 'Savana'
 location: 'Online'
 range: 'September 2021 - Present'
-url: 'https://www.Turing.com/'
+url: 'https://www.golden-savana.netlify.app/'
 ---
 
 - Securing mobile apps with JSON web tokens (JWTs).
