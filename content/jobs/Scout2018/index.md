@@ -1,5 +1,5 @@
 ---
-date: '2018-04-01'
+date: '2019-01-13'
 title: 'UI Engineer'
 company: 'Cybertron'
 location: 'Nairobi, Kenya'
