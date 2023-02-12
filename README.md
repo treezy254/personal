@@ -24,7 +24,7 @@
 ## 🚨 Forking this repo (please read!)
 
 
-sk of you all is to not claim this effort as your own.
+not claim this effort as your own.
 
 Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
 
