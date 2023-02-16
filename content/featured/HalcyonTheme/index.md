@@ -1,13 +1,14 @@
 ---
 date: '1'
-title: 'Savana'
+title: 'TATA'
 cover: './halcyon.png'
 github: 'https://github.com/painkiller254/organization.git'
 external: 'https://golden-savana.netlify.com/'
 tech:
-  - React
-  - Tailwind css
-  - Firebase
+  - Python
+  - Jupyter
+  - Pandas
+  - Tensorflow
   
 ---
 
