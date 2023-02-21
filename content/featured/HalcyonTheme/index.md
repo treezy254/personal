@@ -2,8 +2,8 @@
 date: '1'
 title: 'TATA'
 cover: './halcyon.png'
-github: 'https://github.com/painkiller254/organization.git'
-external: 'https://golden-savana.netlify.com/'
+github: 'https://github.com/treezy254/TATA-Virtual-Internship.git'
+external: ''
 tech:
   - Python
   - Scikit
