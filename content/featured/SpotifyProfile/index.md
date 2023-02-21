@@ -12,4 +12,4 @@ tech:
   - Tensorflow
 ---
 
-An online E-commerce webstore powered by Djnago and react. Provides swift purchases of clothing and accessories online.
+A data science program for collecting user review data from websites, cleaning it and generating a predictive model to understand factors that influence buying behaviour.
