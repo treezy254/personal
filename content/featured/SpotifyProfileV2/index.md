@@ -1,13 +1,14 @@
 ---
 date: '3'
-title: 'Travel Journal'
+title: 'Music AI'
 cover: './course-card.png'
-external: 'https://travellers-journal.netlify.app/'
+external: 'https://github.com/treezy254/Music-AI'
 cta: ''
 tech:
-  - React
-  - Netlify
-  - Firebase
+  - Python
+  - Pytorch
+  - Keras
+  - VAE
 ---
 
-A simple Travel journal for those who love small apps.
+Introducing a new VAE-based architecture to generate novel musical samples.
