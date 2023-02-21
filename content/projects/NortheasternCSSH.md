@@ -1,7 +1,7 @@
 ---
 date: '2022-07-16'
 title: 'Data Science'
-github: 'https://github.com/painkiller254/recommender_system.git'
+github: 'https://github.com/treezy254/Loading-and-Preprocessing-Data-with-TensorFlow'
 external: ''
 tech:
   - Jupyter
@@ -12,4 +12,4 @@ company: 'Savana'
 showInProjects: true
 ---
 
-A product recommender system using python and data analysis tools.
+Well built data pipelines for transforming data and providing valuable insights from multiple data sources.
