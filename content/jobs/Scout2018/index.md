@@ -12,4 +12,3 @@ url: 'https://golden-savana.netlify.app/'
 - Formulating insights into a realistic and reliable representation of the consumer. 
 - Formulating user insights into concepts and solutions. 
 - Reflecting on key learning from the previous tasks.
- 
