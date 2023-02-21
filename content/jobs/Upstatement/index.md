@@ -1,8 +1,8 @@
 ---
 date: '2021-11-30'
 title: 'Software Engineer'
-company: 'Savana'
-location: 'Online'
+company: 'Forage'
+location: 'Virtual'
 range: 'February 2021 - january 2023'
 url: 'https://www.golden-savana.netlify.app/'
 ---
