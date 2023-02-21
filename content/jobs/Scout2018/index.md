@@ -3,7 +3,7 @@ date: '2019-01-13'
 title: 'UI Engineer'
 company: 'Savana'
 location: 'Nairobi, Kenya'
-range: 'January 2019 - December 2020'
+range: 'January 2019 - December 2021'
 url: 'https://golden-savana.netlify.app/' 
 ---
 
