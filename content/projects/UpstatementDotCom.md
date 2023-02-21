@@ -1,7 +1,7 @@
 ---
 date: '2021-11-25'
 title: 'Problem Solving'
-github: 'https://github.com/painkiller254/Problem-solving-Graph-Theory.git'
+github: 'https://github.com/treezy254/Problem-Solving'
 external: ''
 tech:
   - Python
@@ -9,4 +9,4 @@ company: 'Savana'
 showInProjects: true
 ---
 
-In this project I was graced with the privilege of solving some graph theory related problems using python.
+Solutions to a wide range of problem solving domain using python based on Hackerrank challenges.
