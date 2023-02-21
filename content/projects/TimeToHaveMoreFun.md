@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-A machine learning project that explored california housing dataset for the year 1998 and predicts the house pricing according to certain features.
+This repository contains challenges from domains of Artificial Intelligences rangineg from Game Theory and bot building to Computer vision and Advanced search Algorithms.
