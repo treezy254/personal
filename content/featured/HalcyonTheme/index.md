@@ -12,4 +12,4 @@ tech:
   
 ---
 
-Visualizing business data using power bi.
+Stunning visuals revolving around questions that CEO and CMO mostly require answers to, from provided data.
