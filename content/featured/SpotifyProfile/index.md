@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Jenny Online Store'
+title: 'British Airways'
 cover: './demo.png'
-github: 'hhttps://github.com/painkiller254/Clothing-shop.git'
+github: 'https://github.com/treezy254/British-Airways-Virtual-Internship.git'
 external: '#/'
 tech:
-  - React
-  - Styled Components
-  - Django
-  - Rest Framework
-  - Heroku
+  - Python
+  - Scikit
+  - Seaborn
+  - Scrapy
+  - Tensorflow
 ---
 
 An online E-commerce webstore powered by Djnago and react. Provides swift purchases of clothing and accessories online.
