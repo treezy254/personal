@@ -1,7 +1,7 @@
 ---
 date: '2019-01-13'
 title: 'UI Engineer'
-company: 'Cybertron'
+company: 'Savana'
 location: 'Nairobi, Kenya'
 range: 'January 2019 - December 2020'
 url: 'https://golden-savana.netlify.app/' 
