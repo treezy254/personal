@@ -4,7 +4,7 @@ title: 'UI Engineer'
 company: 'Cybertron'
 location: 'Nairobi, Kenya'
 range: 'January 2019 - December 2020'
-url: 'https://golden-savana.netlify.app/'
+url: 'https://golden-savana.netlify.app/' 
 ---
 
 - Understanding user needs through strategic planning.
