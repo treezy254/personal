@@ -1,7 +1,7 @@
 ---
 date: '2022-10-10'
 title: 'Artificial Intelligence'
-github: 'https://github.com/painkiller254/Carlifornia_House_pricing_prediction.git'
+github: 'https://github.com/treezy254/Hackerrank_Artificial_Intelligence'
 external: ''
 tech:
   - Jupyter
