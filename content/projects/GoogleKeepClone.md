@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Stock market predictions with LSTM in python using machine learning models.
+This is a repository containing challenges from various probability and statistics domain.
