@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         
-          <div>Inspired by Brittany</div>
+          <div></div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
