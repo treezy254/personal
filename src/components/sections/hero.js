@@ -46,12 +46,12 @@ const StyledHeroSection = styled.section`
     margin-top: 50px;
   }
   
-//   .dope {
-//     width: 500px;
-//     position: absolute;
-//     margin-left: 500px;
-//     background-color: transparent;
-//   }
+  .dope {
+   width: 500px;
+   position: absolute;
+   margin-left: 500px;
+   background-color: transparent;
+  }
 `;
 
 const Hero = () => {
@@ -108,12 +108,12 @@ const Hero = () => {
             ))}
         </TransitionGroup>
       )}
-      
-    </StyledHeroSection>
-    <div className="dope">
+      <div className="dope">
         <BackgroundAnimation />
       </div>
       </>
+    </StyledHeroSection>
+    
   );
 };
 
