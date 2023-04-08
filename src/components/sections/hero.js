@@ -46,12 +46,12 @@ const StyledHeroSection = styled.section`
     margin-top: 50px;
   }
   
-  .dope {
-    width: 500px;
-    position: absolute;
-    margin-left: 500px;
-    background-color: transparent;
-  }
+//   .dope {
+//     width: 500px;
+//     position: absolute;
+//     margin-left: 500px;
+//     background-color: transparent;
+//   }
 `;
 
 const Hero = () => {
@@ -90,6 +90,7 @@ const Hero = () => {
   const items = [one, two, three, four, five];
 
   return (
+    <>
     <StyledHeroSection>
       {prefersReducedMotion ? (
         <>
@@ -107,10 +108,12 @@ const Hero = () => {
             ))}
         </TransitionGroup>
       )}
-      <div className="dope">
+      
+    </StyledHeroSection>
+    <div className="dope">
         <BackgroundAnimation />
       </div>
-    </StyledHeroSection>
+      </>
   );
 };
 
