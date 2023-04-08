@@ -90,7 +90,7 @@ const Hero = () => {
   const items = [one, two, three, four, five];
 
   return (
-    <>
+    
     <StyledHeroSection>
       {prefersReducedMotion ? (
         <>
@@ -111,7 +111,7 @@ const Hero = () => {
       <div className="dope">
         <BackgroundAnimation />
       </div>
-      </>
+      
     </StyledHeroSection>
     
   );
