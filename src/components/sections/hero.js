@@ -50,6 +50,7 @@ const StyledHeroSection = styled.section`
     width: 500px;
     position: absolute;
     margin-left: 500px;
+    background-color: transparent;
   }
 `;
 
