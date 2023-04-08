@@ -47,9 +47,9 @@ const StyledHeroSection = styled.section`
   }
   
   .dope {
-    position : absolute;
-    margin-left: 600px;
-    margin-top: 30px;
+    width: 500px;
+    position: absolute;
+    margin-left: 500px;
   }
 `;
 
