@@ -45,6 +45,12 @@ const StyledHeroSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+  
+  .dope {
+    position : absolute;
+    margin-left: 600px;
+    margin-top: 30px;
+  }
 `;
 
 const Hero = () => {
@@ -100,7 +106,9 @@ const Hero = () => {
             ))}
         </TransitionGroup>
       )}
-      <BackgroundAnimation />
+      <div className="dope">
+        <BackgroundAnimation />
+      </div>
     </StyledHeroSection>
   );
 };
