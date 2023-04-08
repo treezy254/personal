@@ -51,6 +51,7 @@ const StyledHeroSection = styled.section`
    position: absolute;
    margin-left: 500px;
 //    background-color: #0a192f;
+   position: static;
    color: #0a192f;
   }
 `;
