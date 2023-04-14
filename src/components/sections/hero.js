@@ -46,6 +46,7 @@ const StyledHeroSection = styled.section`
     margin-top: 50px;
   }
   
+  @media only screen and (min-width: 768px) {
   .dope {
    width: 500px;
    position: absolute;
@@ -53,6 +54,11 @@ const StyledHeroSection = styled.section`
 //    background-color: #0a192f;
    
    color: #0a192f;
+  }
+  }
+  
+  .dope {
+    display: none;
   }
 `;
 
