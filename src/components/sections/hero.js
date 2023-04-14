@@ -57,9 +57,9 @@ const StyledHeroSection = styled.section`
   }
   }
   
-  .dope {
-    display: none;
-  }
+//   .dope {
+//     display: none;
+//   }
 `;
 
 const Hero = () => {
