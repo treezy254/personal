@@ -1,16 +1,15 @@
 ---
 date: '2019-01-13'
-title: 'UI Engineer'
-company: 'Savana'
+title: 'Quantitative Analyst '
+company: 'Team'
 location: 'Nairobi, Kenya'
-range: 'January 2019 - December 2021'
-url: 'https://golden-savana.netlify.app/' 
+range: 'January 20203 - July 2023'
+url: 'https://github.com/treezy254/deep' 
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for a learning institution. 
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript  
-- Understanding user needs through strategic planning.
-- Uncovering the implicit atitudes, behaviours and motivations that drive people's choices and desires.
-- Formulating insights into a realistic and reliable representation of the consumer. 
-- Formulating user insights into concepts and solutions. 
-- Reflecting on key learning from the previous tasks.
+- Collaborated with a team of programmers and traders to spearhead the development of a robust Algorithmic trading system. 
+- Engineered and formulated robust features from data which proved helpful in training models.   
+- Utilized machine learning models such as Artificial Neural Nets to deduce complex patterns from data.  
+- Developed and implemented an Algorithmic Trading strategy to utilize the ML models in decision making.  
+- Optimized the model to improve performance and acquire an accuracy of 76%. 
+- Well documented the code which improved team collaboration in completing the project.  
