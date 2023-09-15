@@ -1,14 +1,14 @@
 ---
-date: '2021-12-01'
-title: 'Web Development'
-github: 'https://github.com/painkiller254/Data-analysis.git'
-external: 'https://golden-savana.netlify.app/'
+date: '2023-01-01'
+title: 'Face Encoding'
+github: 'https://github.com/treezy254/Face-encoding.git'
+external: ''
 tech:
   - Python
-  - Pandas
-  - Matplotlib
-company: 'Savana'
+  - AWS Lambda
+  - Bot3
+company: 'Forage'
 showInProjects: true
 ---
 
-I generate stunning websites using popular tools like, Django, React, Wordpress and others while utilizing rest frameworks and jwt for api and authentication.
+Identifying and encoding faces within images for mobile authentication.
