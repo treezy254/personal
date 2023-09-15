@@ -1,14 +1,14 @@
 ---
 date: '2022-10-10'
-title: 'Artificial Intelligence'
-github: 'https://github.com/treezy254/Hackerrank_Artificial_Intelligence'
+title: 'Clothing and Accessories shop'
+github: 'https://github.com/treezy254/Clothing-shop'
 external: ''
 tech:
-  - Jupyter
-  - Sklearn
-  - matplotlib
+  - React
+  - Django
+  - Rest-Framework
 company: ''
 showInProjects: true
 ---
 
-This repository contains challenges from domains of Artificial Intelligences rangineg from Game Theory and bot building to Computer vision and Advanced search Algorithms.
+Discover the latest fashion trends and elevate your style at our online clothing and accessories shop, where quality meets affordability. Explore a curated selection of chic apparel and must-have accessories for every occasion.
