@@ -1,5 +1,5 @@
 ---
-date: '2019-01-13'
+date: '2023-01-13'
 title: 'Quantitative Analyst '
 company: 'Team'
 location: 'Nairobi, Kenya'
