@@ -1,12 +1,12 @@
 ---
-date: '2022-04-03'
-title: 'Blockchain'
-github: 'https://github.com/painkiller254/Solidity.git'
+date: '2022-12-03'
+title: 'Artificial Intelligence'
+github: 'https://github.com/treezy254/Hackerrank_Artificial_Intelligence.git'
 external: ''
 tech:
-  - Solidity
-company: 'Savana'
+  - Python
+company: 'Hackerrank'
 showInProjects: true
 ---
 
-Making smart contracts using Solidity programming language to be deployed on the Ethereum blockchain.
+Exploring various domains of artificial intelligence such as Natural Language Processing by applying my problem solving skills.
