@@ -1,7 +1,7 @@
 ---
 date: '2016-01-13'
 title: 'Scout'
-company: 'Cybertron Internet Cafe'
+company: 'Cybertron Internet'
 location: 'Nairobi, Kenya'
 range: 'March 2016 - April 2019'
 url: '' 
