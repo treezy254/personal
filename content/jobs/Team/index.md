@@ -3,7 +3,7 @@ date: '2019-01-13'
 title: 'Quantitative Analyst '
 company: 'Team'
 location: 'Nairobi, Kenya'
-range: 'January 20203 - July 2023'
+range: 'January 2023 - July 2023'
 url: 'https://github.com/treezy254/deep' 
 ---
 
