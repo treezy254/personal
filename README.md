@@ -4,7 +4,7 @@
 <h1 align="center">
   kamausamuel.com
 </h1>
-<p align="center">
+<p align="center"> 
   The third iteration of <a href="https://kamausamuel.com" target="_blank">kamausamuel.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
