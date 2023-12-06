@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Music AI'
+title: 'Quantitaive Analysis'
 cover: './course-card.png'
-external: 'https://github.com/treezy254/Music-AI'
+external: 'https://github.com/treezy254/deep.git'
 cta: ''
 tech:
   - Python
-  - Pytorch
-  - Keras
-  - VAE
+  - LSTM
+  - Tensorflow
+  - Deep Q Networks
 ---
 
-Introducing a new VAE-based architecture to generate novel musical samples.
+Predicting forex prices using a deep Q-network reinforcement learning agent..

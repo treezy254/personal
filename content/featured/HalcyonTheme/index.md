@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'TATA'
+title: 'Nairobi City County'
 cover: './halcyon.png'
-github: 'https://github.com/treezy254/TATA-Virtual-Internship.git'
-external: ''
+github: ''
+external: 'https://www.figma.com/file/sN75m4xqdCkASpqUj6As39/sharepoint-ncc?type=design&node-id=1-515&mode=design&t=tWzL3wbA4QtkmqDE-0'
 tech:
-  - Python
-  - Scikit
-  - Power bi
-  - Tableu
+  - Node
+  - Express
+  - Sequelize
+  - React
   
 ---
 
-Stunning visuals revolving around questions that CEO and CMO mostly require answers to, from provided data.
+A comprehensive intranet system that provides a private, secure network that enables employees to access internal and external resources.
