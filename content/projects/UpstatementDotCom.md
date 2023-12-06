@@ -1,7 +1,7 @@
 ---
 date: '2021-11-25'
 title: 'Web scraping'
-github: 'https://github.com/treezy254/Problem-Solving'
+github: 'https://github.com/treezy254/web-scrapping.git'
 external: ''
 tech:
   - Python
