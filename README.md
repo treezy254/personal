@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/treezy254/personal/blob/master/static/og.png?raw=true" width="100" />
 </div>
 <h1 align="center">  
   kamausamuel.com 
@@ -9,9 +9,9 @@
 </p>
 <p align="center">
   Previous iterations: 
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+  <a href="" target="_blank">v1</a>,
+  <a href="" target="_blank">v2</a>,
+  <a href="" target="_blank">v3</a>
 </p> 
 <p align="center">
   <a href="https://app.netlify.com/sites/painkiller254/deploys" target="_blank">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://github.com/treezy254/personal/blob/master/static/og.png?raw=true)
 
 ## 🚨 Forking this repo (please read!)
 

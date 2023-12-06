@@ -135,15 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, my name is Samuel and I work remotely as a freelance data scientist. I hold a Bachelor’s in science (Software Development, KCA University Nairobi).
+              Hi, my name is Samuel and I work remotely as a freelance data scientist. I hold a
+              Bachelor’s in science (Software Development, KCA University Nairobi).
             </p>
 
             <p>
-              Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me.
+              Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big
+              data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else
+              sees is the challenge to me.
             </p>
 
             <p>
-              I have been working as a software engineer for more than four years with experience in transport, logistics and retail. I have worked for more than 3 companies which gives me the ability to translate complex questions into understandable insights.
+              I have been working as a software engineer for more than four years with experience in
+              transport, logistics and retail. I have worked for more than 3 companies which gives
+              me the ability to translate complex questions into understandable insights.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -158,7 +163,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
