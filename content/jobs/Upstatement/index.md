@@ -1,7 +1,7 @@
 ---
-date: '2021-11-30'
+date: '2023-01-01'
 title: 'Junior Software Engineer : Intern'
-company: 'Forage'
+company: 'British Airways'
 location: 'Virtual'
 range: 'April 2022 - january 2023'
 url: 'https://www.golden-savana.netlify.app/'
