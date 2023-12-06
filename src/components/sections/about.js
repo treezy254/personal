@@ -147,8 +147,9 @@ const About = () => {
 
             <p>
               I have been working as a software engineer for more than four years with experience in
-              transport, logistics and retail. I have worked for more than 3 companies which gives
-              me the ability to translate complex questions into understandable insights.
+              transport, logistics and retail. I have worked for more than 3 companies which has
+              enabled me to have the ability to translate complex questions into understandable
+              insights.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
