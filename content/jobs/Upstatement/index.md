@@ -3,8 +3,8 @@ date: '2023-01-01'
 title: 'Junior Software Engineer : Intern'
 company: 'British Airways'
 location: 'Virtual'
-range: 'April 2022 - january 2023'
-url: 'https://www.golden-savana.netlify.app/'
+range: 'January 2022 - September 2023'
+url: 'https://github.com/treezy254/British-Airways-Virtual-Internship'
 ---
 
 - scraping and analysing customer review data to uncover findings.
