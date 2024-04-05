@@ -147,9 +147,7 @@ const About = () => {
 
             <p>
               I have been working as a software engineer for more than three years with experience in
-              data science, web development and artificial intelligence. I have worked with more than 5 clients which has
-              enabled me to have the ability to translate complex questions into understandable
-              insights.
+              data science, web development and artificial intelligence. 
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
