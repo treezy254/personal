@@ -146,8 +146,8 @@ const About = () => {
             </p>
 
             <p>
-              I have been working as a software engineer for more than four years with experience in
-              transport, logistics and retail. I have worked for more than 3 companies which has
+              I have been working as a software engineer for more than three years with experience in
+              data science, web development and artificial intelligence. I have worked with more than 5 clients which has
               enabled me to have the ability to translate complex questions into understandable
               insights.
             </p>
