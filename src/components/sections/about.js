@@ -135,20 +135,27 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, my name is Samuel and I work remotely as a freelance data scientist. I hold a
-              Bachelor’s in science (Software Development, KCA University Nairobi).
+              I am a passionate software developer with a BSc in Software Development 
+              from KCA University. My love for coding drives me to create innovative 
+              solutions that make an impact. Recently, I launched EveryAutomate, 
+              a startup dedicated to revolutionizing the software development process 
+              by automating repetitive tasks, enhancing efficiency, and improving 
+              the overall quality of applications.
             </p>
 
             <p>
-              Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big
-              data sets: to me it is one big puzzle I want to solve. Finding patterns nobody else
-              sees is the challenge to me.
+              Beyond development, I bring a well-rounded skill set that includes sales 
+              and digital marketing, business administration, and team leadership. This 
+              diverse experience has equipped me to approach projects holistically, 
+              combining technical expertise with strategic thinking.
             </p>
 
             <p>
-              I have been working as a software engineer for more than three years with experience in
-              data science, web development and artificial intelligence. 
+            Currently, I work as a Project Manager, where I help organizations meet their software needs by delivering 
+            tailored solutions that align with their goals.
             </p>
+
+            <p>In my free time, I enjoy blogging, creating art, and exploring the world through travel.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

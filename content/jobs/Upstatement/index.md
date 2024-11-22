@@ -7,12 +7,10 @@ range: 'May 2024 - September 2024'
 url: 'https://dimewise.co.ke/'
 ---
 
-- scraping and analysing customer review data to uncover findings.
-- Building predictive models to understand factors that influence buying behaviour.
-- anticipating questions business leaders might need answers to.
-- Creating effective visuals based on business scenarios.
-- Effectively communicating my findings and explaining how it relates to each scenario.
-- Securing mobile apps with JSON web tokens (JWTs).
-- Identifying and encoding faces within images for mobile authentication.
-- Interrogating data from terradata with SQL queries.
-- Abstracting database queries from the mobile apps with personalised views.
+- Community Training: Designed and delivered comprehensive training programs on AI, digital tools, and emerging technologies to empower the community with digital skills.
+- Event and Workshop Facilitation: Organized and hosted events, workshops, and hackathons to foster innovation, collaboration, and awareness of technological advancements.
+- IT Infrastructure Management: Maintained and upgraded the organization’s IT systems, ensuring smooth operations and minimal downtime.
+- Partnership Development: Collaborated with local and international organizations to secure partnerships and sponsorships, enhancing the hub’s offerings and reach.
+- Technology Advocacy: Acted as a local advocate for digital literacy, encouraging community members to adopt technology for personal and professional growth.
+- Strategic Planning: Developed strategies to expand the hub’s impact, including introducing new courses and diversifying revenue streams.
+

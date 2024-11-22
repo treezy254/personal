@@ -87,14 +87,14 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I want to help others to make the right decisions, data-driven decisions.
+        I build intuitive software solutions for mobile and the web.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="#"
+      href="https://medium.com/@gachungasamuel54/in-software-design-invisibility-is-the-ultimate-compliment-ab1221b501d3"
       target="_blank"
       rel="noreferrer">
       Check out my blog!

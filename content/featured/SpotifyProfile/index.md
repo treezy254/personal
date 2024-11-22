@@ -12,4 +12,4 @@ tech:
   - AI
 ---
 
-A data science program for collecting user review data from websites, cleaning it and generating a predictive model to understand factors that influence buying behaviour.
+ A groundbreaking project dedicated to transforming software development by automating repetitive tasks, optimizing workflows, and empowering teams to focus on innovation and quality
