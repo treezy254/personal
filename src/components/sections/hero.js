@@ -94,7 +94,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="#"
+      href="https://medium.com/@gachungasamuel54/in-software-design-invisibility-is-the-ultimate-compliment-ab1221b501d3"
       target="_blank"
       rel="noreferrer">
       Check out my blog!
