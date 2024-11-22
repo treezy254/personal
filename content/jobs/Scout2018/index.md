@@ -1,10 +1,10 @@
 ---
-date: '2019-01-13'
-title: 'UI Engineer'
-company: 'Savana'
-location: 'Nairobi, Kenya'
-range: 'January 2019 - December 2021'
-url: 'https://golden-savana.netlify.app/' 
+date: '2024-05-13'
+title: 'Product Manager'
+company: '21Summer'
+location: 'Remote'
+range: 'May 2024 '
+url: 'https://21summer-labs.gitpod.io' 
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for a learning institution. 
