@@ -1,13 +1,14 @@
 ---
 date: '2022-06-29'
-title: 'Statistics'
-github: 'https://github.com/painkiller254/Stocks-Market-prediction.git'
-external: ''
+title: 'Interactive Editor'
+github: 'https://github.com/treezy254/S-editor'
+external: 'https://interactivecode.netlify.app/'
 tech:
-  - Python
-  - Sklearn
-  - Tensorflow
+  - React
+  - JQuery
+  - Node
+  - Express
 showInProjects: true
 ---
 
-This is a repository containing challenges from various probability and statistics domain.
+An innovative approach to how people learn coding. Imagine "the power to edit code straight from the tutorial video" - this is it.
