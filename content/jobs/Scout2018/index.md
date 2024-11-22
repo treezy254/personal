@@ -1,6 +1,6 @@
 ---
 date: '2024-05-13'
-title: 'Product Manager'
+title: 'Project Manager'
 company: '21Summer'
 location: 'Remote'
 range: 'May 2024 '
